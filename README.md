@@ -17,6 +17,7 @@ I am a third-grade Information System student currently attending Universitas Pe
 
 ### Connect with me:
 
+[<img align="left" alt="Shidqi Maulana | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Shidqi Maulana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shidqi Maulana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Shidqi Maulana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -46,6 +47,7 @@ I am a third-grade Information System student currently attending Universitas Pe
 
 <img align="left" alt="Shidqi's Top Language" src="https://github-readme-stats-codestackr.vercel.app/api/top-langs/?username=shidqimlna&layout=compact" />
 
+[gmail]: mailto:shidqimlna@gmail.com
 [twitter]: https://twitter.com/shidqimlna
 [instagram]: https://instagram.com/shidqimlna
 [linkedin]: https://linkedin.com/in/shidqimlna
