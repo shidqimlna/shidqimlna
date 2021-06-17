@@ -4,7 +4,7 @@ I am a third-grade Information System student currently attending Universitas Pe
 
 <br />
 
-<img align="left" alt="Shidqi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shidqimlna&show_icons=true&hide_border=true" />
+<img align="left" alt="Shidqi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shidqimlna&show_icons=true&hide_border=true" />
 
 <br />
 <br />
@@ -45,7 +45,7 @@ I am a third-grade Information System student currently attending Universitas Pe
 <br />
 <br />
 
-<img align="left" alt="Shidqi's Top Language" src="https://github-readme-stats-codestackr.vercel.app/api/top-langs/?username=shidqimlna&layout=compact" />
+<img align="left" alt="Shidqi's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shidqimlna&layout=compact" />
 
 [gmail]: mailto:shidqimlna@gmail.com
 [twitter]: https://twitter.com/shidqimlna
