@@ -19,8 +19,6 @@ I'm an Information System student, currently attending Universitas Pembangunan N
 
 [<img align="left" alt="Shidqi Maulana | Gmail" width="26px" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png" />][gmail]
 [<img align="left" alt="Shidqi Maulana | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
-[<img align="left" alt="Shidqi Maulana | Twitter" width="26px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
-[<img align="left" alt="Shidqi Maulana | Instagram" width="26px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />][instagram]
 
 <br />
 
