@@ -4,8 +4,8 @@ I'm an Information System student, currently attending Universitas Pembangunan N
 
 <br />
 
-<img align="left" alt="Shidqi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shidqimlna&show_icons=true&hide_border=true" />
-
+<img align="left" alt="Shidqi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shidqimlna&show_icons=true&hide_border=true&include_all_commits=true" />
+ 
 <br />
 <br />
 <br />
@@ -42,7 +42,7 @@ I'm an Information System student, currently attending Universitas Pembangunan N
 <br />
 <br />
 
-<img align="left" alt="Shidqi's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shidqimlna&layout=compact" />
+<img align="left" alt="Shidqi's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shidqimlna&layout=compact&include_all_commits=true" />
 
 [gmail]: mailto:shidqimlna@gmail.com
 [twitter]: https://twitter.com/shidqimlna
